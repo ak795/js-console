@@ -20,6 +20,9 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+#click on load to load the fucntions on compiler
+On UI click load first, then click Run.
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
