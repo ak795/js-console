@@ -1,6 +1,11 @@
 # js-console
 
-> Building JS Console
+> JS console written in Javascript
+> Handled scopes, basic arithmetic operations
+> Handled common mathematical functions
+> Handled history of commands
+> The Parse tree and Lexemes are visible in the Browser console.
+> The Parse tree generation is inspired by https://github.com/NeilFraser/JS-Interpreter.
 
 ## Build Setup
 
