@@ -23,3 +23,17 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+##Test Scripts
+```
+a = 5;
+b = a * a;
+cout(b);
+
+square = function(x) {
+    x * x;
+};
+x = sin(PI) * -5;
+cout(x + '² = ' + square(x));
+
+```
